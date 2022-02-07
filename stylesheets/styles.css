@@ -6,6 +6,13 @@ body {
   font-weight:400;
 }
 
+.circular--square {
+ border-top-left-radius: 50% 50%; 
+border-top-right-radius: 50% 50%; 
+border-bottom-right-radius: 50% 50%; 
+border-bottom-left-radius: 50% 50%; 
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -195,15 +202,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-.circular--square {
-  width: 80%;
-  height: 60%;
-  object-fit: contain;
-  border-top-left-radius: 50% 50%;
-  border-top-right-radius: 50% 50%;
-  border-bottom-right-radius: 50% 50%;
-  border-bottom-left-radius: 50% 50%;
-}
+
 
 @media print, screen and (max-width: 960px) {
 
