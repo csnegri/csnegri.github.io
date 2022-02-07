@@ -67,3 +67,8 @@
 .type-csharp .highlight .nn { color: #000000 }
 .type-csharp .highlight .s { color: #A31515 }
 .type-csharp .highlight .sc { color: #A31515 }
+
+.circularSquare {border-top-left-radius: 50% 50%; 
+border-top-right-radius: 50% 50%; 
+border-bottom-right-radius: 50% 50%; 
+  border-bottom-left-radius: 50% 50%;}
