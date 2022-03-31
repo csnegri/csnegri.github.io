@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 13px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
 }
@@ -114,7 +114,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:15em;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -180,7 +180,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:42em
   float:right;
   padding-bottom:50px;
 }
