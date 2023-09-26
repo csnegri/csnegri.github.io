@@ -4,8 +4,7 @@ Hey there! This is the GitHub of my personal website! Here you can read the code
 
 There is not much more to say than that. Maybe, sometime in the future I might upload some documents here but nothing really interesting
 
-
-# Information about the theme 
+[the information below is about the theme I'm using, which is minimal]
 # Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
