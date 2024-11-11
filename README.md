@@ -18,4 +18,6 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
+OSINT student: good, you went beyond. Maybe some interesting information in the code? Certainly if you do some network analysis you'll find him 
+
 
